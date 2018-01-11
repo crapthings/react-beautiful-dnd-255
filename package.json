@@ -1,0 +1,18 @@
+{
+  "name": "kanban-prototype",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4",
+    "meteor-node-stubs": "^0.2.11",
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-beautiful-dnd": "^4.0.0",
+    "react-dom": "^16.2.0",
+    "react-mounter": "^1.2.0"
+  }
+}
